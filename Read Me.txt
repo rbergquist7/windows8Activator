@@ -1,0 +1,44 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How To Activate Windows Permanently
+-----------------------------------------------------
+
+a] Open the folder "Permanent Activator"
+
+b] Right Click on "Windows 8 Permanent Activator [x264+64]" and select "Run as Adminstrator" and let it extract
+
+c] Now click on WINDOWS 8 INSTALL/UNINSTALL which will start the activation process in Windows CMD
+
+c] CMD will ask to confirm the activation, then type Y and hit ENTER to start Activating.
+
+d] Activation process may take couple of minutes.And also your PC will restart once activation is finished.
+
+e] After activation is done and your PC restarts you will get a prompt saying Windows is ativated and other details.
+
+
+Note : Windows 8 has special improvents as well as security.
+Therefore, untill it is not activated, you wont be able to do any personalization to your pc.
+This activator must activate your windows Permanently and enable Personlization settings. If it fails to Enable Personlization Settings, Please follow the below instructions [Please remember not to do the below settings if your personalization settings are enabled.]
+
+
+
+How to Enable Personalization Setting (First Activate Windows from above precedure)
+
+----------------------------------------------------------------------------------------------------------
+
+These instructions are "ONLY AND ONLY" for those who are not able to access the personlization settings after Activating Windows Permanently.
+
+a] Open the folder "Permanent Activator"
+
+b] Right Click on "Personalisation FIX" and select "Run as Adminstrator" and let it extract
+
+3.b] Windows CMD will automatically Run fix and restart your PC
+
+After restart, you should be able to Access Personlization settings
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hope You Enjoy the Download.
+
+Brought to you by-atik0786 
